@@ -1,4 +1,4 @@
-# 💫 About Me:🔭 I’m currently working on a startup based on managing booknf of venues across all types of sports
+# 💫 About Me:🔭 I’m currently working on a startup based on managing bookings of venues across all types of sports
 👯 I’m looking to collaborate on similar projects where I can put my expertise across the projects</br>
 🤝 I’m looking for more tech-based entrepreneurs, looking forward to bringing a change in the online booking industry</br>
 🌱 I’m currently learning Android development, cybersecurity, and DevOps</br>
