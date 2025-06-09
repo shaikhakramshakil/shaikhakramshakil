@@ -1,9 +1,11 @@
-# 💫 About Me:🔭 I’m currently working on a startup based on managing bookings of venues across all types of sports
+# 💫 About Me:🔭 I’m currently working on a startup based on managing bookings of venues across all types of sports facilities 
 👯 I’m looking to collaborate on similar projects where I can put my expertise across the projects</br>
 🤝 I’m looking for more tech-based entrepreneurs, looking forward to bringing a change in the online booking industry</br>
 🌱 I’m currently learning Android development, cybersecurity, and DevOps</br>
 💬 Ask me about the startup ecosystem, Android development, and web development</br>
-⚡ Credentials: SIH 2024 Finalist and accepted into Google startup accelerator program.Passionate about cybersecurity, Android development, and web development. Always exploring new ways to build secure, efficient, and scalable applications.</br>
+⚡ Credentials: 1. SIH 2024 Finalist 
+                2. accepted into the Google startup accelerator program.
+                3. Incubated by VIKISIT MARATHWADA 2047 VISION.
 
 
 ## 🌐 Socials:
